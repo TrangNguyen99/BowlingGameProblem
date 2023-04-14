@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingGameProblem", "BowlingGameProblem\BowlingGameProblem.csproj", "{E8A92A7A-344C-404F-BC8C-5EDC799B223B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8A92A7A-344C-404F-BC8C-5EDC799B223B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A92A7A-344C-404F-BC8C-5EDC799B223B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8A92A7A-344C-404F-BC8C-5EDC799B223B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8A92A7A-344C-404F-BC8C-5EDC799B223B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F680D8B-ECC4-4194-8FB8-344A489AC01D}
+	EndGlobalSection
+EndGlobal
